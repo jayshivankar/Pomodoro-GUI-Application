@@ -10,7 +10,7 @@ Usage & Requirements
 This project uses two libraries:
 
 
-TkInter
+TkInter,
 Math
 
     REPS += 1

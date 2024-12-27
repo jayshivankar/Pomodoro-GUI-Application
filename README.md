@@ -1,4 +1,5 @@
 Main Features
+
 The app uses a counting-down timer to break work into 25 minute-long intervals, separated by short, 5-minute breaks. Each work and short break interval is called a pomodoro.
 
 Each interval type (work or rest) shows as a header in green above the tomato graphic. The timer itself counts down in white integers within the tomato graphic.
@@ -7,6 +8,7 @@ After completing 4 pomodoros, the timer then sets to a 20 minute "long" break.
 
 Usage & Requirements
 This project uses two libraries:
+
 
 TkInter
 Math
